@@ -38,7 +38,7 @@ At **DIGITAL FORTITUDE SOLUTIONS**, we specialize in providing comprehensive IT 
 
 **UI/UX Design Projects**
 
-#### [Project Name](https://www.figma.com/proto/2R0qTJOThUOZLvhDh0Vuq1/siriusA?page-id=0%3A1&node-id=93-564&node-type=canvas&viewport=406%2C133%2C0.03&t=8IotH1jeokSGbaD6-1&scaling=min-zoom&content-scaling=fixed)
+#### [Project link](https://www.figma.com/proto/2R0qTJOThUOZLvhDh0Vuq1/siriusA?page-id=0%3A1&node-id=93-564&node-type=canvas&viewport=406%2C133%2C0.03&t=8IotH1jeokSGbaD6-1&scaling=min-zoom&content-scaling=fixed)
 - **Description:** Design of landing pages, mobile app interfaces, for seamless user experience.
 - **Technologies Used:** Figma, HTML, CSS
 
@@ -62,7 +62,7 @@ At **DIGITAL FORTITUDE SOLUTIONS**, we specialize in providing comprehensive IT 
 
 ## 📊 Portfolio
 
-### [Social Media Management Projects](#social-media-management-projects)
+**[Social Media Management Projects](#social-media-management-projects)**
 
 #### 1. [Project Name](link-to-project)
 
